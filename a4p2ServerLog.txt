@@ -1,0 +1,16 @@
+MACBOOKs-MBP-4
+Mon Dec  3 10:00:08 CST 2018
+Thread ID: 171945984
+Server PID: 36737
+Transaction received from Client: date
+
+Output of Transaction:
+Mon Dec  3 10:00:08 CST 2018
+MACBOOKs-MBP-4
+Mon Dec  3 10:00:37 CST 2018
+Thread ID: 171945984
+Server PID: 36737
+Transaction received from Client: ls /etc | wc
+
+Output of Transaction:
+     119     119    1426

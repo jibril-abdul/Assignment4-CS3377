@@ -1,0 +1,18 @@
+MACBOOKs-MBP-4
+Mon Dec  3 10:00:08 CST 2018
+_ _ _ _ _ _ _ _ _ _ _ _ _
+Output of transaction:
+Mon Dec  3 10:00:08 CST 2018
+
+MACBOOKs-MBP-4
+Mon Dec  3 10:00:37 CST 2018
+_ _ _ _ _ _ _ _ _ _ _ _ _
+Output of transaction:
+     119     119    1426
+
+MACBOOKs-MBP-4
+Mon Dec  3 10:00:52 CST 2018
+_ _ _ _ _ _ _ _ _ _ _ _ _
+Output of transaction:
+     119     119    1426
+

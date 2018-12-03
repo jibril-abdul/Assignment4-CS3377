@@ -1,0 +1,27 @@
+MACBOOKs-MBP-4
+Mon Dec  3 05:32:01 CST 2018
+_ _ _ _ _ _ _ _ _ _ _ _ _
+Output of transaction:
+Mon Dec  3 05:32:01 CST 2018
+
+MACBOOKs-MBP-4
+Mon Dec  3 05:32:11 CST 2018
+_ _ _ _ _ _ _ _ _ _ _ _ _
+Output of transaction:
+     119     119    1426
+
+MACBOOKs-MBP-4
+Mon Dec  3 05:32:22 CST 2018
+_ _ _ _ _ _ _ _ _ _ _ _ _
+Output of transaction:
+afpovertcp.cfg
+afpovertcp.cfg~orig
+aliases
+aliases.db
+apache2
+asl
+asl.conf
+auto_home
+auto_master
+auto_master~orig
+
